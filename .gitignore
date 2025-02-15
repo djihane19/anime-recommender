@@ -7,3 +7,5 @@ venv/
 
 
 data/rating.csv
+models/cosine_sim.pkl
+models/indices.pkl
