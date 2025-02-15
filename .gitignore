@@ -6,6 +6,6 @@ venv/
 *.pyd
 
 
-data/rating.csv
-models/cosine_sim.pkl
-models/indices.pkl
+./data/rating.csv
+./models/cosine_sim.pkl
+./models/indices.pkl
